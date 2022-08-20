@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pagatodo</string>
+    <string name="btn_iniciar_p">Iniciar Sesion</string>
+    <string name="btn_registrar">Registrarse</string>
+    <string name="text_cedula">Cedula</string>
+    <string name="text_password">Contraseña</string>
+    <string name="btn_iniciarSesion">Iniciar Sesion</string>
+    <string name="text_sistem">Bienvenidos al sistema de registro</string>
+    <string name="text_name">Ingrese el nombre</string>
+    <string name="text_cedula1">Ingrese la cedula</string>
+    <string name="text_pass">Ingrese una contraseña</string>
+    <string name="btn_registrar1">Registrarse</string>
+    <string name="textSaldoB">Bienvenido al sistema</string>
+    <string name="btnRecargar">Recargar</string>
+    <string name="btnPagar">Realizar pago</string>
+    <string name="textSistemRec">Bienvenido al sistema de recarga</string>
+    <string name="textRecargo">Ingrese la cantidad a recargar</string>
+    <string name="btnrecargo">Recargar</string>
+    <string name="text_pagosin">Bienvenido al sistema de pagos</string>
+    <string name="text_Pago_Fac">Ingrese el numero de la factura</string>
+    <string name="text_pago_pago">Ingrese el valor a pagar</string>
+    <string name="text_pago_pagar">Pagar</string>
+    <string name="yes">Desea ver su saldo</string>
+    <string name="not">Cerrar sesion</string>
+
+</resources>
